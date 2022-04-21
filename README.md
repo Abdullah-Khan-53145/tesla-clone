@@ -37,5 +37,5 @@ Nodejs must be intalled in order to run this
 
 Abdullah Khan - abdullah.khan53145@gmail.com
 
-Project Link: [https://netflix-clone-226ef.web.app//
-](https://netflix-clone-226ef.web.app/)
+Project Link: [https://tesla-clone-72fd8.web.app/
+](https://tesla-clone-72fd8.web.app/)
