@@ -12,6 +12,7 @@ linkedin-clone">
 
 <h3 align="center">Tesla Clone</h3>
 </div>
+
 ## Authors
 
 - [@Abdullah Khan](https://github.com/Abdullah-Khan-53145)
